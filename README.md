@@ -7,7 +7,9 @@ Old school search engine. http://www.gigablast.com/
 More cool lists. https://github.com/jnv/lists  
 Infosec tools. https://sectools.org/  
 GitHub CLI manual. https://cli.github.com/manual/  
-Stock resources list. https://github.com/neutraltone/awesome-stock-resources  
+Stock resources list. https://github.com/neutraltone/awesome-stock-resources 
+Build your own shit. https://github.com/danistefanovic/build-your-own-x 
+
 
 
 ## Design stuff
