@@ -32,6 +32,6 @@ Static site CMS with local software. https://getpublii.com
 Home Assistant server. https://www.home-assistant.io/getting-started/
 
 ## Server stuff
-Server control panels - 
+Server control panels -  
 https://github.com/bastienwirtz/homer  
 https://github.com/MarceauKa/shaark  
